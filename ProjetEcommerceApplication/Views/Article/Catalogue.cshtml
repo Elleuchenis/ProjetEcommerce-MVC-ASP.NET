@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ProjetEcommerceApplication.Models.Article>
+
+@{
+    ViewData["Title"] = "Catalogue";
+}
+
+<h1>Catalogue</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="~/images/@item.Imageurl" class="card-img-top" alt="@item.ArticleName">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ArticleName</h5>
+                        <p class="card-text">Price: @item.Price</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="@Url.Action("Create", "Order", new { id = item.ArticleId })" class="btn btn-primary">Buy</a>
+                        <a href="@Url.Action("DetailsUser", new { id = item.ArticleId })" class="btn btn-secondary">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

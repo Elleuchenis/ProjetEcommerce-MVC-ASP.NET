@@ -1,0 +1,61 @@
+﻿@model ProjetEcommerceApplication.Models.Order
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Article)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Article.ArticleName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QuantityCommand)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QuantityCommand)
+        </dd>
+       
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Totaleprice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Totaleprice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CommandState)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CommandState)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="EditMyOrder" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="MyOrders">Back to List</a>
+</div>

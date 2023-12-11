@@ -1,0 +1,45 @@
+﻿@model ProjetEcommerceApplication.Models.Order
+
+@{
+    ViewData["Title"] = "DeleteConfirmed";
+}
+
+<h1>DeleteConfirmed</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QuantityCommand)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QuantityCommand)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Article)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Article.ArticleName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Totaleprice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Totaleprice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CommandState)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CommandState)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteConfirmed">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

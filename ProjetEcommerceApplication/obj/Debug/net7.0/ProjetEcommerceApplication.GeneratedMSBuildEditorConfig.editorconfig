@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetEcommerceApplication
+build_property.RootNamespace = ProjetEcommerceApplication
+build_property.ProjectDir = C:\Users\Mohamed Ali Elleuch\source\repos\ProjetEcommerceApplication\ProjetEcommerceApplication\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mohamed Ali Elleuch\source\repos\ProjetEcommerceApplication\ProjetEcommerceApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Admin/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Admin/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Admin/EditUsersInRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXJzSW5Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Admin/ListRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdFJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Catalogue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDYXRhbG9ndWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/DetailsUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWxzVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/DeleteConfirmed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlQ29uZmlybWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/EditMyOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdE15T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Order/Myorders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTXlvcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mohamed Ali Elleuch/source/repos/ProjetEcommerceApplication/ProjetEcommerceApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o06hq2ha40
